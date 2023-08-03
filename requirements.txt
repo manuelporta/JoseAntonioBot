@@ -1,0 +1,8 @@
+python-telegram-bot==13.4.1
+beautifulsoup4==4.11.1
+requests==2.27.1
+whisper
+pydub
+git+https://github.com/openai/whisper.git
+ffmpeg
+#openai-whisper
